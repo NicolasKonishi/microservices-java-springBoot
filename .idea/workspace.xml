@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c37e3ebf-7d15-4d27-9c6d-da24f9ffac45" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="17" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.1158235077362963" />
+      <entry key="MS500" value="1.64976953122772" />
+      <entry key="S2" value="1.897821157855487" />
+      <entry key="S5" value="1.9578024294079943" />
+      <entry key="S10" value="1.9786738115470315" />
+      <entry key="S30" value="1.9928401291118214" />
+      <entry key="S60" value="1.9964136335437315" />
+      <entry key="M2" value="1.9982052061293467" />
+      <entry key="M5" value="1.9992816955270831" />
+      <entry key="M10" value="1.9996407832452032" />
+      <entry key="M15" value="1.9997605078237708" />
+      <entry key="M30" value="1.9998802467414638" />
+      <entry key="H1" value="1.9999401215780193" />
+      <entry key="H2" value="1.999970060340818" />
+      <entry key="H4" value="1.9999850300583595" />
+      <entry key="D1" value="1.9999975049941638" />
+      <entry key="W1" value="1.9999996435702139" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.12620386565892536" />
+      <entry key="MS500" value="1.050860114403963" />
+      <entry key="S2" value="1.693633401328537" />
+      <entry key="S5" value="1.8704944351598403" />
+      <entry key="S10" value="1.9340229653917638" />
+      <entry key="S30" value="1.9777293275168568" />
+      <entry key="S60" value="1.9888294730006781" />
+      <entry key="M2" value="1.9944059085266832" />
+      <entry key="M5" value="1.9977602408079922" />
+      <entry key="M10" value="1.9988797663122715" />
+      <entry key="M15" value="1.9992530988304005" />
+      <entry key="M30" value="1.9996265100536252" />
+      <entry key="H1" value="1.9998132451852904" />
+      <entry key="H2" value="1.9999066201321236" />
+      <entry key="H4" value="1.9999533094509139" />
+      <entry key="D1" value="1.9999922181563803" />
+      <entry key="W1" value="1.999998888305962" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3I6B91U1X3Ojvs0G6ugO6smPGoP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.hr-worker [clean].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/nicolas/dev/go-advanced-course",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hr-worker/.mvn" />
+      <recent name="$PROJECT_DIR$/hr-worker" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="HrWorkerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hr-worker" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dev.hr_worker.HrWorkerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c37e3ebf-7d15-4d27-9c6d-da24f9ffac45" name="Changes" comment="" />
+      <created>1787074985828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787074985828</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
