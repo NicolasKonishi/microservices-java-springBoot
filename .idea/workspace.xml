@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c37e3ebf-7d15-4d27-9c6d-da24f9ffac45" name="Changes" comment="initial">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="c37e3ebf-7d15-4d27-9c6d-da24f9ffac45" name="Changes" comment="hr-worker implementation">
+      <change afterPath="$PROJECT_DIR$/hr-payroll/src/main/java/com/dev/hr_payroll/enitities/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hr-payroll/src/main/java/com/dev/hr_payroll/resources/paymentResouce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hr-payroll/src/main/java/com/dev/hr_payroll/services/PaymentService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/src/main/java/com/dev/hr_worker/HrWorkerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/src/main/java/HrWorkerApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,18 +36,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "NicolasKonishi"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;NicolasKonishi&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/NicolasKonishi/microservices-java-springBoot.git",
-    "accountId": "439e004b-923b-4295-a75e-6881aaee4ea6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/NicolasKonishi/microservices-java-springBoot.git&quot;,
+    &quot;accountId&quot;: &quot;439e004b-923b-4295-a75e-6881aaee4ea6&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/hr-worker/src/main/java/com/dev/hr_worker/entities.java" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -64,60 +65,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000291939585364" />
-      <entry key="S2" value="1.0785104877662195" />
-      <entry key="S5" value="1.4997205123184236" />
-      <entry key="S10" value="2.223722711200044" />
-      <entry key="S30" value="4.665739000882453" />
-      <entry key="S60" value="6.889409098569536" />
-      <entry key="M2" value="8.89184317957975" />
-      <entry key="M5" value="11.044048781748248" />
-      <entry key="M10" value="13.723090942942877" />
-      <entry key="M15" value="17.058742403025093" />
-      <entry key="M30" value="31.73170233988298" />
-      <entry key="H1" value="58.46249249629051" />
-      <entry key="H2" value="85.96590936925752" />
-      <entry key="H4" value="106.01382714822685" />
-      <entry key="D1" value="127.18565572680019" />
-      <entry key="W1" value="131.29934686327454" />
+      <entry key="MS500" value="1.0002705157099279" />
+      <entry key="S2" value="1.1282472682883755" />
+      <entry key="S5" value="1.4398715756284868" />
+      <entry key="S10" value="1.6735393148038624" />
+      <entry key="S30" value="2.090421400248005" />
+      <entry key="S60" value="2.435103563518153" />
+      <entry key="M2" value="3.4740166373733947" />
+      <entry key="M5" value="11.483137901520152" />
+      <entry key="M10" value="26.69959558850105" />
+      <entry key="M15" value="39.468144473801246" />
+      <entry key="M30" value="67.92415041680535" />
+      <entry key="H1" value="106.50876298841878" />
+      <entry key="H2" value="147.65604003879415" />
+      <entry key="H4" value="179.98011113385036" />
+      <entry key="D1" value="216.39487967643515" />
+      <entry key="W1" value="223.74025149664425" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="3.669590245258102E-200" />
-      <entry key="MS500" value="1.2969508392798202E-40" />
-      <entry key="S2" value="1.0671632933510979E-10" />
-      <entry key="S5" value="1.0263425907442517E-4" />
-      <entry key="S10" value="0.010130856778892156" />
-      <entry key="S30" value="0.21637914077406784" />
-      <entry key="S60" value="0.46516572006770435" />
-      <entry key="M2" value="0.6821132108961072" />
-      <entry key="M5" value="0.881540668678234" />
-      <entry key="M10" value="1.1158433329448563" />
-      <entry key="M15" value="1.4519598929208388" />
-      <entry key="M30" value="2.8032407778361192" />
-      <entry key="H1" value="4.920958563780674" />
-      <entry key="H2" value="6.904074424813712" />
-      <entry key="H4" value="8.278959368796528" />
-      <entry key="D1" value="9.685531499852956" />
-      <entry key="W1" value="9.954346793214402" />
+      <entry key="MS100" value="1.7300929126229322E-16" />
+      <entry key="MS500" value="7.040668317676879E-4" />
+      <entry key="S2" value="0.16289339367041175" />
+      <entry key="S5" value="0.48390642512192217" />
+      <entry key="S10" value="0.6956338297710397" />
+      <entry key="S30" value="0.8860689875636121" />
+      <entry key="S60" value="0.9493052397447417" />
+      <entry key="M2" value="1.2284673988026995" />
+      <entry key="M5" value="3.586860617410347" />
+      <entry key="M10" value="6.969870292340012" />
+      <entry key="M15" value="9.0357637340794" />
+      <entry key="M30" value="12.444092914071355" />
+      <entry key="H1" value="16.001733926361347" />
+      <entry key="H2" value="19.314943015713446" />
+      <entry key="H4" value="21.75187960053227" />
+      <entry key="D1" value="24.38949532654497" />
+      <entry key="W1" value="24.910892909987176" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="3.679833458528931E-5" />
-      <entry key="MS500" value="0.1297769462056419" />
-      <entry key="S2" value="0.6593865676390317" />
-      <entry key="S5" value="1.2528274136911888" />
-      <entry key="S10" value="2.0322468874775588" />
-      <entry key="S30" value="4.711292995607006" />
-      <entry key="S60" value="7.22680341782163" />
-      <entry key="M2" value="9.493028235954556" />
-      <entry key="M5" value="11.886412251419664" />
-      <entry key="M10" value="14.815235675500208" />
-      <entry key="M15" value="18.492238666530437" />
-      <entry key="M30" value="34.52202187255225" />
-      <entry key="H1" value="63.37456809857286" />
-      <entry key="H2" value="92.86447320799638" />
-      <entry key="H4" value="114.2896689843034" />
-      <entry key="D1" value="136.87060661587873" />
-      <entry key="W1" value="141.2536090556556" />
+      <entry key="MS100" value="0.15283003471150855" />
+      <entry key="MS500" value="0.687284285260952" />
+      <entry key="S2" value="1.1545211491864362" />
+      <entry key="S5" value="1.8247524664503818" />
+      <entry key="S10" value="2.3041609760197197" />
+      <entry key="S30" value="2.949715546849527" />
+      <entry key="S60" value="3.369358198571561" />
+      <entry key="M2" value="4.685522757385857" />
+      <entry key="M5" value="15.034814001689963" />
+      <entry key="M10" value="33.632320832173214" />
+      <entry key="M15" value="48.47056238577002" />
+      <entry key="M30" value="80.3435221302357" />
+      <entry key="H1" value="122.49369397571827" />
+      <entry key="H2" value="166.96056359081814" />
+      <entry key="H4" value="201.7260576093474" />
+      <entry key="D1" value="240.7832580523895" />
+      <entry key="W1" value="248.65098126051603" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -125,6 +126,9 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="3I6B91U1X3Ojvs0G6ugO6smPGoP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -141,11 +145,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.HrPayrollApplication.executor": "Run",
     "Spring Boot.HrWorkerApplication.executor": "Run",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/nicolas/dev/microservices-java-springBoot/hr-worker",
+    "last_opened_file_path": "/home/nicolas/dev/microservices-java-springBoot/hr-payroll",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -153,7 +158,7 @@
     "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -163,7 +168,14 @@
       <recent name="$PROJECT_DIR$/hr-worker" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.HrPayrollApplication">
+    <configuration name="HrPayrollApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hr-payroll" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dev.hr_payroll.HrPayrollApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HrWorkerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="hr-worker" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.dev.hr_worker.HrWorkerApplication" />
@@ -206,7 +218,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+    <MESSAGE value="hr-worker implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="hr-worker implementation" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
